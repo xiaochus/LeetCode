@@ -24,3 +24,6 @@ Continuous updating...
 | 11 | Container With Most Water | [11.py](/questions/11.py)   | Medium |
 | 12 | Integer to Roman | [12.py](/questions/12.py)   | Medium |
 | 13 | Roman to Integer | [13.py](/questions/13.py)   | Easy |
+| 14 | Longest Common Prefix | [14.py](/questions/14.py)   | Easy |
+| 15 | 3Sum | [15.py](/questions/15.py)   | Medium |
+| 16 | 3Sum Closest | [16.py](/questions/16.py)   | Medium |
