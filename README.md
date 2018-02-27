@@ -27,3 +27,6 @@ Continuous updating...
 | 14 | Longest Common Prefix | [14.py](/questions/14.py)   | Easy |
 | 15 | 3Sum | [15.py](/questions/15.py)   | Medium |
 | 16 | 3Sum Closest | [16.py](/questions/16.py)   | Medium |
+| 17 | Letter Combinations of a Phone Number | [17.py](/questions/17.py)   | Medium |
+| 18 | 4Sum | [18.py](/questions/18.py)   | Medium |
+| 19 | Remove Nth Node From End of List | [19.py](/questions/19.py)   | Medium |
